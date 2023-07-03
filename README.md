@@ -1,4 +1,3 @@
-# SmartBridge
 # Political Juggernauts: A Quantitative Analysis Of Candidates In 2019 Lok Sabha Elections
 
 The Lok Sabha Election 2019 was a significant event in Indian politics. It took place in seven phases from April 11, 2019, to May 19, 2019. The election determined the composition of the 17th Lok Sabha, the lower house of the Indian Parliament. The Bharatiya Janata Party (BJP) emerged as the single largest party with a majority, and its leader, Narendra Modi, was re-elected as the Prime Minister of India. The election witnessed intense political campaigning, with various parties and alliances vying for seats across the country. It saw a high voter turnout, and the results had a profound impact on the country's political landscape.
